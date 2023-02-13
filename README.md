@@ -1,7 +1,5 @@
 # weather-app-by-mike-and-christian
 
-# Weather App
-
 ## Step 1
 
     - Use Openweatherapp api to retrieve info using fetch.
@@ -12,8 +10,8 @@
 ## Step 2
 
     - Render five cols on browser that represent the week forcast.
-    - change info of those five cols dependinig on city forcast.
-    - create img icons that represent the weather
+    - Change info of those five cols dependinig on city forcast.
+    - Create img icons that represent the weather
     - When a col is clicked it becomes the main col of the page
 
 ## step 3
