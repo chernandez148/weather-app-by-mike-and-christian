@@ -24,3 +24,7 @@
     - Weather index to render
     - [0],[8],[16],[24],[32]
     - For five day forcast
+    - As a user I want search for the weather forecast for a select location.
+    - Users can view the forecast for the current day and the following four days.
+    - Users can toggle between farhreinheit and celcius temperatures.
+    - Users can view images rendered as a representation of the weather forecast ex: rain.
