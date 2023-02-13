@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* background-image: url("https://source.unsplash.com/random/3000×4000/?city"); */
+    background-size: cover;
+}
+
+.vh-67 {
+    height: 67vh;
+}
+
+.vh-25 {
+    height: 25vh;
+}
